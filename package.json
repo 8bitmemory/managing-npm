@@ -1,6 +1,7 @@
 {
 	"author": "Elliott Esponda",
 	"name": "fcc-learn-npm-package-json",
+	"description": "this is for an exercise to learn how to manage npm dependecies",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
